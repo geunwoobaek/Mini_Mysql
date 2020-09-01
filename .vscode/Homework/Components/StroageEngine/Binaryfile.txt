@@ -1,0 +1,3 @@
+select col1,col2,col3 FROM Table4 WHERE col3=153
+1: 22 WEBTOON 153 
+1Record

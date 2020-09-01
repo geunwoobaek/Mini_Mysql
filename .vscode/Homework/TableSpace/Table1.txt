@@ -1,0 +1,7 @@
+1,1,hello,geunworo,4,
+2,9,hell,geeunwoo,4,
+3,11,helo,gedunwoo,4,
+4,43,ello,geuwnwoo,4,
+5,13,helo,geunqwoo,4,
+6,19,helloe,geugnwoo,4,
+19,19,hedoe,geuswoo,4,

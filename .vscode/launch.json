@@ -1,0 +1,412 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateAndInsert",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.CreateAndInsert",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Binarytest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.Binarytest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateFiletest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.CreateFiletest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - equaltest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.SelectUtils.SelectTest.equaltest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JoinOnTest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.SelectUtils.SelectTest.JoinOnTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Groupbytest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Groupbytest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SPCtest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.SPCtest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapToArrayListtest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.HashMapToArrayListtest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testforarray",
+            "request": "launch",
+            "mainClass": "pratice.testforarray",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMaptest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.HashMaptest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sorttest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Sorttest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - comparetest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.comparetest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Iteratortest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Iteratortest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Iteratortest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.Iteratortest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeafNodeTest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.LeafNodeTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntegrationTest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.IntegrationTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Deletiontest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.Deletiontest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "pratice.test",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Forlooptest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Forlooptest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testofBtree",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTest.testofBtree",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Timertest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Timertest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testforarray",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTree.testforarray",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testfornull",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTree.testfornull",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testofBtree",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTree.testofBtree",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Binarytest",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTree.Binarytest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - types",
+            "request": "launch",
+            "mainClass": "pratice.types",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharTest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.CharTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testfornulltest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.testfornulltest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BPlusTree",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.BPlusTree",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BPlusTree",
+            "request": "launch",
+            "mainClass": "Homework.Utils.BPlusTree",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EngineTest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.EngineTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Parsertest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Parsertest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinanryTest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.BinanryTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - typecheck",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.typecheck",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testmerge",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.testmerge",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - spilttest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.spilttest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertTest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.InsertTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallByreference",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.CallByreference",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoadTest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.LoadTest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test3",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.test3",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test2",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.test2",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.test",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tabletest",
+            "request": "launch",
+            "mainClass": "Homework.testfolder.Tabletest",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MySql_Server",
+            "request": "launch",
+            "mainClass": "Homework.MySql_Server",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChatClient",
+            "request": "launch",
+            "mainClass": "Homework.ChatClient",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChatServer",
+            "request": "launch",
+            "mainClass": "Homework.ChatServer",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Homework.Client",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoClient",
+            "request": "launch",
+            "mainClass": "Homework.DemoClient",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoServer",
+            "request": "launch",
+            "mainClass": "Homework.DemoServer",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "Homework.Server",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPClient",
+            "request": "launch",
+            "mainClass": "TCPClient",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPServer",
+            "request": "launch",
+            "mainClass": "TCPServer",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "DP_2020_baek_681aa9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
